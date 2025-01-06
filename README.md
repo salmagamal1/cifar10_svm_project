@@ -28,16 +28,20 @@ You can download the dataset from the official CIFAR-10 website:
 
 ---
 
-## Project Overview
+## Project Overview  
 
-1. **Preprocessing**: 
-   - Load and preprocess the CIFAR-10 dataset.
-   - Normalize image data to improve SVM performance.
+### 1. **Preprocessing**  
+- Load and preprocess the CIFAR-10 dataset.  
+- Normalize the image data to improve SVM performance.  
 
-2. **SVM Implementation**: 
-   - Build an SVM from scratch without using machine learning libraries like scikit-learn.
+### 2. **SVM Implementation**  
+- Develop a Support Vector Machine (SVM) classifier from scratch without using pre-built machine learning libraries (e.g., scikit-learn).  
 
-3. **Evaluation**:
-   - Compute metrics such as **accuracy**, **F1 score**, **precision**, and **recall**.
+### 3. **Evaluation**  
+- Compute and analyze the following metrics to evaluate the model's performance:  
+  - **Accuracy**  
+  - **F1 Score**  
+  - **Precision**  
+  - **Recall**  
 
 ---
